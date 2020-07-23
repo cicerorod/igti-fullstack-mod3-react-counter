@@ -36,7 +36,7 @@ Projeto para demostrar a utilização de componentes em React desenvolvido no bo
 
 ## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
 
-Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod3-react-base/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/cicerorod/igti-fullstack-mod3-react-counter/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
